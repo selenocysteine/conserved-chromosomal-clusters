@@ -1,0 +1,8 @@
+workspace.xml
+venv
+.idea
+jobqsub.sh
+.idea/workspace.xml
+__pycache__/
+*.py[cod]
+__init__.py
