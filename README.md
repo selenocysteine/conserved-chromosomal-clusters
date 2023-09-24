@@ -1,8 +1,11 @@
 # Hetairos - Prediction tool for conserved chromosomal clusters of Pfam domain coding regions in microbial genomes
 ## General info
-This repository includes a set of Python 3.6 scripts that were used for the prediction of chromosomal clusters of Pfam domain regions from Bacterial and Archaeal genomes.
+This repository includes a set of Python 3.6 scripts that can be used for the prediction of evolutionarily conserved chromosomal clusters of Pfam domain regions in Bacterial and Archaeal genomes.
 
-The name hetairos comes from the ancient greek word ἑταῖρος (hetaîros, genitive ἑταῖρου), a noun meaning comrade, companion, partner, friend; pupil, disciple; member of a religious guild; (rarely) lover, member of a pair of lovers; (in the plural) the guards i.e. the cavalry of the Macedonian kings; (as an adjective) associate of. Just like two Pfam domains that cluster throughout evolution. :) 
+The name hetairos comes from the ancient greek word ἑταῖρος:
+> ἑταῖρος (hetaîros, genitive ἑταῖρου): a noun meaning comrade, companion, partner, friend; pupil, disciple; member of a religious guild; (rarely) lover, member of a pair of lovers; (in the plural) the guards i.e. the cavalry of the Macedonian kings; (as an adjective) associate of.
+
+Just a perfect description of two Pfam domains that keep clustering together throughout evolution. :) 
 	
 ## Setup
 The scripts were written to be used with Python v3.6. The required libraries are listed in the file requirements.txt.
